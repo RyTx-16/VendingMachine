@@ -1,0 +1,8 @@
+1::Monster Ultra Fiesta::1.50::3
+2::Pepsi Max::1.00::8
+3::Evian Water::1.00::14
+4::Twix::1.00::-3
+5::KitKat Chunky::0.75::9
+6::Walkers Prawn Cocktail::0.50::5
+7::Doritos Chilli Heatwave::0.50::4
+8::Monster Ultra::1.50::0
